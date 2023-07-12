@@ -1,0 +1,267 @@
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scan: received packet (23 bytes) on channel 24
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 2, type 1, FCF 21 ec
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xabcd/51d5.5b11.0074.1200 to 0xabcd/0dae.5e11.0074.1200 time: 2148
+[INFO: TSCH      ] scan: received packet (17 bytes) on channel 24
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 2, type 2, FCF 02 2e
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0x0/0000.0000.0000.0000 to 0xabcd/51d5.5b11.0074.1200 time: 2152
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 25
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scan: received packet (29 bytes) on channel 26
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 0, type 1, FCF 41 88
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xa17/0002.0000.0000.0000 to 0xa17/ffff.0000.0000.0000 time: 2937
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scan: received packet (35 bytes) on channel 18
+[INFO: TSCH      ] parse_eb: no schedule
+[INFO: TSCH Queue] update time source: (NULL LL addr) -> 0dae.5e11.0074.1200
+[INFO: TSCH      ] association done (1), sec 0, PAN ID abcd, asn-0.42fa0, jp 1, timeslot id 0, hopping id 0, slotframe len 0 with 0 links, from 0dae.5e11.0074.1200
+[INFO: TSCH      ] send packet to 0dae.5e11.0074.1200 with seqno 58, queue 1/8 1/8, len 21 21
+[INFO: TSCH      ] sending KA to 0dae.5e11.0074.1200
+[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+[WARN: TSCH      ] leaving the network, stats: tx 0, rx 0, sync 0
+[INFO: TSCH-LOG  ] {asn 20224 link  1 256   0  0  0 ch 14} ! leaving the network, last sync 8032
+[WARN: TSCH Queue] ! flushing packet
+[WARN: TSCH Queue] ! flushing packet
+[INFO: TSCH      ] KA sent to 0000.0000.0000.0000, st 4-0
+[INFO: TSCH Queue] update time source: 0dae.5e11.0074.1200 -> (NULL LL addr)
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 25
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scan: received packet (34 bytes) on channel 26
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 0, type 1, FCF 41 88
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xa17/0004.0000.0000.0000 to 0xa17/ffff.0000.0000.0000 time: 13574
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 25
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scan: received packet (34 bytes) on channel 26
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 0, type 1, FCF 41 88
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xa17/0004.0000.0000.0000 to 0xa17/ffff.0000.0000.0000 time: 15493
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scan: received packet (23 bytes) on channel 21
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 2, type 1, FCF 21 ec
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xabcd/51d5.5b11.0074.1200 to 0xabcd/0dae.5e11.0074.1200 time: 15924
+[INFO: TSCH      ] scan: received packet (17 bytes) on channel 21
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 2, type 2, FCF 02 2e
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0x0/0000.0000.0000.0000 to 0xabcd/51d5.5b11.0074.1200 time: 15928
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 25
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scan: received packet (34 bytes) on channel 26
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 0, type 1, FCF 41 88
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xa17/0004.0000.0000.0000 to 0xa17/ffff.0000.0000.0000 time: 17414
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 25
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scan: received packet (34 bytes) on channel 26
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 0, type 1, FCF 41 88
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xa17/0004.0000.0000.0000 to 0xa17/ffff.0000.0000.0000 time: 19333
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 25
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scan: received packet (34 bytes) on channel 26
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 0, type 1, FCF 41 88
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xa17/0004.0000.0000.0000 to 0xa17/ffff.0000.0000.0000 time: 21257
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scan: received packet (35 bytes) on channel 24
+[INFO: TSCH      ] parse_eb: no schedule
+[INFO: TSCH Queue] update time source: (NULL LL addr) -> 0dae.5e11.0074.1200
+[INFO: TSCH      ] association done (2), sec 0, PAN ID abcd, asn-0.45920, jp 1, timeslot id 0, hopping id 0, slotframe len 0 with 0 links, from 0dae.5e11.0074.1200
+[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+[INFO: TSCH      ] send packet to 0dae.5e11.0074.1200 with seqno 59, queue 1/8 2/8, len 21 21
+[INFO: TSCH      ] sending KA to 0dae.5e11.0074.1200
+[WARN: TSCH      ] leaving the network, stats: tx 0, rx 0, sync 0
+[INFO: TSCH-LOG  ] {asn 30976 link  1 256   0  0  0 ch 14} ! leaving the network, last sync 8160
+[WARN: TSCH Queue] ! flushing packet
+[WARN: TSCH Queue] ! flushing packet
+[INFO: TSCH      ] KA sent to 0dae.5e11.0074.1200, st 4-0
+[INFO: TSCH Queue] update time source: 0dae.5e11.0074.1200 -> (NULL LL addr)
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scan: received packet (35 bytes) on channel 11
+[INFO: TSCH      ] parse_eb: no schedule
+[INFO: TSCH Queue] update time source: (NULL LL addr) -> 0dae.5e11.0074.1200
+[INFO: TSCH      ] association done (3), sec 0, PAN ID abcd, asn-0.46be0, jp 1, timeslot id 0, hopping id 0, slotframe len 0 with 0 links, from 0dae.5e11.0074.1200
+[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+[INFO: TSCH      ] send packet to 0dae.5e11.0074.1200 with seqno 60, queue 1/8 2/8, len 21 21
+[INFO: TSCH      ] sending KA to 0dae.5e11.0074.1200
+[WARN: TSCH      ] leaving the network, stats: tx 0, rx 0, sync 0
+[INFO: TSCH-LOG  ] {asn 35840 link  1 256   0  0  0 ch 13} ! leaving the network, last sync 8224
+[WARN: TSCH Queue] ! flushing packet
+[WARN: TSCH Queue] ! flushing packet
+[INFO: TSCH      ] KA sent to 0dae.5e11.0074.1200, st 4-0
+[INFO: TSCH Queue] update time source: 0dae.5e11.0074.1200 -> (NULL LL addr)
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 25
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scan: received packet (34 bytes) on channel 26
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 0, type 1, FCF 41 88
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xa17/0005.0000.0000.0000 to 0xa17/ffff.0000.0000.0000 time: 42981
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 25
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11
+[INFO: TSCH      ] scanning on channel 20
+[INFO: TSCH      ] scanning on channel 26
+[INFO: TSCH      ] scan: received packet (34 bytes) on channel 26
+[INFO: TSCH Pkt  ] ! parse_eb: frame is not a TSCH beacon. Frame version 0, type 1, FCF 41 88
+[INFO: TSCH Pkt  ] ! parse_eb: frame was from 0xa17/0003.0000.0000.0000 to 0xa17/ffff.0000.0000.0000 time: 46613
+[INFO: TSCH      ] scanning on channel 23
+[INFO: TSCH      ] scanning on channel 16
+[INFO: TSCH      ] scanning on channel 21
+[INFO: TSCH      ] scanning on channel 22
+[INFO: TSCH      ] scanning on channel 19
+[INFO: TSCH      ] scanning on channel 12
+[INFO: TSCH      ] scanning on channel 17
+[INFO: TSCH      ] scanning on channel 18
+[INFO: TSCH      ] scanning on channel 15
+[INFO: TSCH      ] scanning on channel 24
+[INFO: TSCH      ] scanning on channel 13
+[INFO: TSCH      ] scanning on channel 14
+[INFO: TSCH      ] scanning on channel 11

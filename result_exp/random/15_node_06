@@ -1,0 +1,2340 @@
+[INFO: App       ] Received 13 at ch 25 time 22211 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 22703 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 23195 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 23687 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 24179 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 24671 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 25163 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 25655 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 26147 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 26639 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 27131 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 27623 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 28115 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 28607 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 29099 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 29591 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 30083 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 30575 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 31067 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 31559 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 32051 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 32543 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 33035 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 33527 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 34019 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 34511 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 35003 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 35495 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 35987 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 36479 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 36971 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 37463 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 37955 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 38447 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 38939 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 39431 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 39923 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 40415 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 40907 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 41399 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 41891 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 42383 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 42875 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 43367 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 43859 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 44351 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 44843 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 45335 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 45827 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 46319 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 46811 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 47303 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 47795 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 48287 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 48779 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 49271 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 49763 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 50255 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 50747 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 51239 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 51731 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 52223 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 52715 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 53207 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 53699 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 54191 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 54683 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 55175 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 55667 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 56159 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 56651 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 57143 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 57635 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 58127 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 58619 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 59111 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 59603 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 60095 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 60587 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 61079 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 61571 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 62063 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 62555 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 63047 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 63539 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 64031 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 64523 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 65015 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 65507 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 65999 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 66491 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 66983 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 67475 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 67967 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 68459 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 68951 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 69443 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 69935 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 70427 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 70919 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 71411 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 71903 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 72395 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 72887 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 73379 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 73871 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 74363 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 74855 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 75347 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 75839 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 76331 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 76823 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 77315 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 77807 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 78299 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 78791 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 79283 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 79775 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 80267 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 80759 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 81251 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 81743 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 82235 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 82727 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 83219 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 83711 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 84203 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 84695 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 85187 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 85679 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 86171 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 86663 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 87155 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 87647 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 88139 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 88631 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 89123 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 89615 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 90107 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 90599 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 91091 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 91583 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 92075 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 92567 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 93059 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 93551 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 94043 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 94535 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 95027 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 95519 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 96011 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 96503 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 96995 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 97487 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 97979 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 98471 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 98963 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 99455 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 99947 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 100439 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 100931 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 101423 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 101915 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 102407 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 102899 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 103391 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 103883 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 104375 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 104867 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 105359 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 105851 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 106343 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 106835 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 107327 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 107819 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 108311 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 108804 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 109295 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 109787 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 110279 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 110771 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 111263 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 111755 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 112247 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 112739 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 113231 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 113723 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 114215 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 114707 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 115199 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 115691 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 116183 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 116675 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 117167 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 117659 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 118151 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 118643 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 119135 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 119627 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 120119 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 120611 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 121103 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 121595 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 122087 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 122579 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 123071 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 123563 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 124055 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 124547 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 125039 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 125531 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 126023 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 126515 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 127007 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 127499 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 127991 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 128483 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 128975 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 129467 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 129959 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 130451 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 130943 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 131435 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 131927 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 132419 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 132911 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 133403 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 133895 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 134387 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 134879 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 135371 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 135863 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 136355 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 136847 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 137339 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 137831 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 138323 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 138815 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 139307 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 139799 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 140290 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 140783 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 141274 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 141766 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 142258 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 142750 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 143242 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 143734 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 144227 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 144718 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 145210 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 145702 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 146194 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 146686 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 147178 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 147670 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 148162 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 148654 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 149146 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 149638 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 150130 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 150622 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 151114 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 151606 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 152098 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 152590 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 153082 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 153574 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 154066 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 154558 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 155542 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 156034 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 156526 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 157018 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 157510 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 158002 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 158494 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 158986 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 159478 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 159970 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 160462 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 160954 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 161446 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 161938 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 162430 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 162922 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 163414 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 163906 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 164398 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 164890 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 165382 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 165874 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 166366 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 166858 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 167350 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 167842 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 168334 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 168826 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 169318 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 169810 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 170302 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 170794 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 171286 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 171778 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 172270 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 172762 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 173254 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 173746 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 174238 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 174730 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 175222 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 175714 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 176206 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 176698 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 177190 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 177682 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 178174 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 178666 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 179158 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 179650 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 180142 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 180634 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 181126 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 181618 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 182110 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 182602 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 183094 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 183586 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 184078 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 184570 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 185062 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 185554 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 186046 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 186538 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 187030 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 187522 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 188014 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 188506 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 188998 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 189490 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 189982 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 190474 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 190966 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 191458 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 191950 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 192442 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 192934 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 193426 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 193918 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 194410 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 194902 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 195394 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 195886 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 196378 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 196870 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 197362 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 197855 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 198346 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 199330 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 199822 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 200314 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 200806 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 201298 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 201790 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 202282 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 202774 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 203266 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 203758 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 204250 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 204742 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 205234 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 205726 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 206218 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 206710 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 207202 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 207694 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 208186 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 208678 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 209170 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 209662 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 210154 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 210646 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 211138 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 211630 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 212122 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 212614 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 213106 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 213598 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 214090 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 214582 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 215074 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 215566 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 216058 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 216550 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 217042 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 217534 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 218026 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 218518 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 219010 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 219502 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 219994 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 220486 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 220978 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 221470 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 221962 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 222454 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 222946 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 223438 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 223930 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 224422 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 224914 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 225406 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 225898 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 226390 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 226882 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 227374 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 227866 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 228358 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 228850 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 229342 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 229834 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 230326 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 230818 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 231310 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 231802 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 232294 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 232786 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 233278 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 233770 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 234262 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 234754 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 235246 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 235738 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 236230 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 236722 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 237214 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 237706 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 238198 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 238690 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 239182 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 239674 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 240166 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 240658 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 241150 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 241642 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 242134 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 242626 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 243118 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 243610 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 244102 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 244594 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 245086 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 245578 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 246070 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 246562 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 247054 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 247546 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 248038 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 248530 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 249022 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 249514 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 250006 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 250498 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 250990 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 251483 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 251974 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 252466 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 252958 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 253450 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 253942 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 254434 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 254926 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 255418 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 255910 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 256402 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 256894 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 257386 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 257878 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 258370 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 258862 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 259354 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 259846 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 260338 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 260830 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 261322 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 261814 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 262306 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 262798 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 263290 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 263782 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 264274 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 264766 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 265258 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 265750 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 266242 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 266734 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 267226 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 267718 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 268210 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 268702 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 269194 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 269686 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 270178 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 270670 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 271162 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 271654 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 272146 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 272638 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 273130 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 273622 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 274114 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 274606 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 275098 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 275590 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 276082 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 276574 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 277066 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 277558 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 278050 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 278542 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 279034 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 279526 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 280018 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 280510 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 281002 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 281494 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 281986 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 282478 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 282970 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 283462 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 283954 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 284446 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 284938 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 285430 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 285922 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 286414 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 286906 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 287398 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 287890 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 288382 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 288874 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 289366 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 289858 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 290350 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 290842 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 291334 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 292318 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 292810 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 293302 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 293794 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 294286 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 294778 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 295270 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 295762 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 296254 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 296746 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 297238 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 297730 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 298222 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 298714 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 299206 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 299698 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 300190 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 300682 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 301174 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 301666 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 302158 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 302650 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 303142 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 303634 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 304126 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 304618 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 305110 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 305602 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 306094 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 306586 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 307078 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 307570 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 308062 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 308554 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 309046 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 309538 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 310029 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 310521 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 311013 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 311505 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 311997 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 312489 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 312981 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 313473 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 313965 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 314457 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 314949 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 315441 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 315933 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 316425 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 316917 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 317409 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 317901 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 318393 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 318885 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 319377 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 319869 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 320361 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 320853 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 321345 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 321837 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 322329 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 322821 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 323313 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 323805 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 324297 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 324789 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 325281 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 325773 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 326265 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 326757 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 327249 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 327741 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 328233 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 328725 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 329217 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 329709 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 330201 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 330693 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 331185 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 331677 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 332169 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 332661 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 333153 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 333645 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 334137 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 334629 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 335121 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 335613 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 336105 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 336597 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 337089 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 337581 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 338073 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 338565 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 339057 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 339549 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 340041 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 341025 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 341517 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 342009 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 342501 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 342993 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 343485 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 343977 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 344469 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 344961 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 345453 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 345945 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 346437 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 346929 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 347421 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 347913 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 348405 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 348897 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 349389 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 349881 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 350373 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 350865 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 351357 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 351849 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 352341 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 352833 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 353325 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 353817 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 354309 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 354801 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 355293 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 355785 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 356277 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 356769 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 357261 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 357753 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 358245 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 358738 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 359229 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 359721 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 360213 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 360705 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 361197 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 361689 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 362181 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 362673 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 363165 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 363657 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 364149 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 364641 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 365133 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 365625 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 366117 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 366609 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 367101 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 367593 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 368085 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 368577 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 369069 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 369561 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 370053 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 370545 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 371037 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 371529 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 372021 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 372513 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 373005 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 373497 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 373989 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 374481 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 374973 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 375465 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 375957 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 376449 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 376941 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 377433 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 377925 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 378417 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 378909 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 379401 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 379893 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 380385 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 380877 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 381369 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 381861 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 382353 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 382845 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 383337 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 383829 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 384321 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 384813 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 385305 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 385797 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 386289 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 386781 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 387273 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 387765 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 388257 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 388749 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 389241 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 389733 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 390225 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 390717 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 391209 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 391701 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 392193 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 392685 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 393177 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 393669 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 394161 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 394653 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 395145 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 395637 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 396129 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 396621 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 397113 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 397605 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 398097 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 398589 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 399081 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 399573 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 400065 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 400557 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 401049 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 401541 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 402033 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 402525 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 403017 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 403509 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 404001 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 404493 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 404985 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 405477 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 405969 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 406461 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 406953 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 407445 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 407937 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 408429 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 408921 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 409413 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 409905 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 410397 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 410889 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 411381 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 411873 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 412365 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 412857 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 413349 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 413841 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 414333 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 414825 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 415317 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 415809 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 416301 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 416793 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 417285 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 417777 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 418269 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 418761 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 419253 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 419745 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 420237 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 420729 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 421221 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 421713 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 422205 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 422697 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 423189 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 423681 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 424173 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 424665 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 425157 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 425649 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 426141 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 426633 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 427125 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 427617 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 428109 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 428601 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 429093 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 429585 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 430077 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 430569 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 431061 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 431553 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 432045 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 432537 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 433029 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 433521 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 434013 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 434505 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 434997 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 435489 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 435981 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 436473 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 436965 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 437457 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 437949 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 438441 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 438933 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 439425 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 439917 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 440409 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 440901 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 441393 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 441885 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 442377 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 442869 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 443361 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 443853 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 444345 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 444837 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 445329 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 445821 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 446313 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 446805 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 447297 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 447789 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 448281 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 448773 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 449265 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 449757 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 450249 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 450741 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 451233 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 451725 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 452217 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 452709 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 453201 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 453693 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 454185 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 454677 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 455169 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 455661 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 456153 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 456645 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 457137 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 457629 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 458121 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 458613 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 459105 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 459597 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 460089 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 460581 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 17 time 461073 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 461565 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 462057 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 462549 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 463041 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 463533 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 464025 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 464517 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 465009 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 465501 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 465993 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 20 time 466485 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 466977 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 467469 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 467961 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 468453 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 468945 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 469437 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 469929 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 19 time 470421 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 470913 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 471405 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 471897 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 472389 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 472881 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 473373 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 473865 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 474357 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 474849 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 475341 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 475833 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 476325 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 13 time 476817 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 25 time 477309 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 12 time 477801 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 15 time 478293 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 22 time 478785 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 23 time 479276 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 26 time 479769 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 18 time 480260 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 14 time 480752 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 21 time 481244 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 24 time 481736 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
+[INFO: App       ] Received 13 at ch 11 time 482228 from bcac.2110.0074.1200
+[INFO: App       ] Sending 6 to 0dae.5e11.0074.1200
