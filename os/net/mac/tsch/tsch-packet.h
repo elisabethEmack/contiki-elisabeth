@@ -37,8 +37,8 @@
  *	TSCH packet parsing and creation. EBs and EACKs.
 */
 
-#ifndef TSCH_PACKET_H_
-#define TSCH_PACKET_H_
+#ifndef __TSCH_PACKET_H__
+#define __TSCH_PACKET_H__
 
 /********** Includes **********/
 
@@ -128,5 +128,5 @@ void tsch_packet_eackbuf_set_attr(uint8_t type, const packetbuf_attr_t val);
  */
 packetbuf_attr_t tsch_packet_eackbuf_attr(uint8_t type);
 
-#endif /* TSCH_PACKET_H_ */
+#endif /* __TSCH_PACKET_H__ */
 /** @} */

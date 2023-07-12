@@ -37,8 +37,8 @@
  *	TSCH per-slot logging
 */
 
-#ifndef TSCH_LOG_H_
-#define TSCH_LOG_H_
+#ifndef __TSCH_LOG_H__
+#define __TSCH_LOG_H__
 
 /********** Includes **********/
 
@@ -149,5 +149,5 @@ void tsch_log_stop(void);
 
 #endif /* (TSCH_LOG_PER_SLOT == 0) */
 
-#endif /* TSCH_LOG_H_ */
+#endif /* __TSCH_LOG_H__ */
 /** @} */

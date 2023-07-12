@@ -39,8 +39,8 @@
  *         Simon Duquennoy <simonduq@sics.se>
 */
 
-#ifndef TSCH_ASN_H_
-#define TSCH_ASN_H_
+#ifndef __TSCH_ASN_H__
+#define __TSCH_ASN_H__
 
 /************ Types ***********/
 
@@ -95,5 +95,32 @@ struct tsch_asn_divisor_t {
    + (uint16_t)((asn).ms1b * (div).asn_ms1b_remainder % (div).val)) \
   % (div).val
 
-#endif /* TSCH_ASN_H_ */
+
+//MY ADDITIONS:
+/** public static int getIndexPointer(int asn, int seq_length) {
+        // index = ((asn - 1)/seq_length) % seq_length
+        int index = ((asn) / seq_length) % seq_length;
+        return index;
+    }
+\brief Returns the result (16 bits) of a modulo operation on ASN,
+ * with divisor being a struct asn_divisor_t */
+#define TSCH_ASN_POINTER_MOD(asn, div) \
+  ((uint16_t)(((asn).ls4b / (div).val)% (div).val) \
+   + (uint16_t)((asn).ms1b / (div).val * (div).asn_ms1b_remainder % (div).val)) \
+  % (div).val
+
+/** public static int getSeq_idx(int asn, int seq_length) {
+        //col = ((ASN/seq_lenth^2) % 2) +1
+        int col = ((asn / ((seq_length * seq_length))) % 2);
+        return col;
+    }
+\brief Returns the result (16 bits) of a modulo operation on ASN,
+ * with divisor being a struct asn_divisor_t */
+#define TSCH_ASN_SEQUENCE_MOD(asn, div, mod) \
+  ((uint16_t)(((asn).ls4b / ((div).val * (div).val)) % mod) \
+   + (uint16_t)((asn).ms1b / ((div).val * (div).val) * (div).asn_ms1b_remainder * (div).asn_ms1b_remainder % mod )) \
+  % mod
+
+
+#endif /* __TSCH_ASN_H__ */
 /** @} */

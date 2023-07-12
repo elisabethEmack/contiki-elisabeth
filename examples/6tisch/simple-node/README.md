@@ -1,5 +1,3 @@
-# 6tisch/simple-node
-
 A RPL+TSCH node that demonstrates joining and the basic operation of TSCH and RPL networks.
 
 Modes of operation

@@ -3,8 +3,6 @@
 #include "random.h"
 #include "net/netstack.h"
 #include "net/ipv6/simple-udp.h"
-#include <stdint.h>
-#include <inttypes.h>
 
 #include "sys/log.h"
 #define LOG_MODULE "App"
@@ -14,10 +12,9 @@
 #define UDP_CLIENT_PORT	8765
 #define UDP_SERVER_PORT	5678
 
-#define SEND_INTERVAL		  (10 * CLOCK_SECOND)
+#define SEND_INTERVAL		  (60 * CLOCK_SECOND)
 
 static struct simple_udp_connection udp_conn;
-static uint32_t rx_count = 0;
 
 /*---------------------------------------------------------------------------*/
 PROCESS(udp_client_process, "UDP client");
@@ -39,16 +36,15 @@ udp_rx_callback(struct simple_udp_connection *c,
   LOG_INFO_(" LLSEC LV:%d", uipbuf_get_attr(UIPBUF_ATTR_LLSEC_LEVEL));
 #endif
   LOG_INFO_("\n");
-  rx_count++;
+
 }
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(udp_client_process, ev, data)
 {
   static struct etimer periodic_timer;
+  static unsigned count;
   static char str[32];
   uip_ipaddr_t dest_ipaddr;
-  static uint32_t tx_count;
-  static uint32_t missed_tx_count;
 
   PROCESS_BEGIN();
 
@@ -60,27 +56,16 @@ PROCESS_THREAD(udp_client_process, ev, data)
   while(1) {
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
 
-    if(NETSTACK_ROUTING.node_is_reachable() &&
-        NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
-
-      /* Print statistics every 10th TX */
-      if(tx_count % 10 == 0) {
-        LOG_INFO("Tx/Rx/MissedTx: %" PRIu32 "/%" PRIu32 "/%" PRIu32 "\n",
-                 tx_count, rx_count, missed_tx_count);
-      }
-
+    if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
       /* Send to DAG root */
-      LOG_INFO("Sending request %"PRIu32" to ", tx_count);
+      LOG_INFO("Sending request %u to ", count);
       LOG_INFO_6ADDR(&dest_ipaddr);
       LOG_INFO_("\n");
-      snprintf(str, sizeof(str), "hello %" PRIu32 "", tx_count);
+      snprintf(str, sizeof(str), "hello %d", count);
       simple_udp_sendto(&udp_conn, str, strlen(str), &dest_ipaddr);
-      tx_count++;
+      count++;
     } else {
       LOG_INFO("Not reachable yet\n");
-      if(tx_count > 0) {
-        missed_tx_count++;
-      }
     }
 
     /* Add some jitter */

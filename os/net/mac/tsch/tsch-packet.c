@@ -52,6 +52,9 @@
 #include "lib/ccm-star.h"
 #include "lib/aes-128.h"
 
+// addition
+#include "sys/clock.h"
+
 /* Log configuration */
 #include "sys/log.h"
 #define LOG_MODULE "TSCH Pkt"
@@ -255,7 +258,7 @@ tsch_packet_create_eb(uint8_t *hdr_len, uint8_t *tsch_sync_ie_offset)
   {
     /* Send slotframe 0 with link at timeslot 0 and channel offset 0 */
     struct tsch_slotframe *sf0 = tsch_schedule_get_slotframe_by_handle(0);
-    struct tsch_link *link0 = tsch_schedule_get_link_by_offsets(sf0, 0, 0);
+    struct tsch_link *link0 = tsch_schedule_get_link_by_timeslot(sf0, 0, 0);
     if(sf0 && link0) {
       ies.ie_tsch_slotframe_and_link.num_slotframes = 1;
       ies.ie_tsch_slotframe_and_link.slotframe_handle = sf0->handle;
@@ -409,6 +412,9 @@ tsch_packet_parse_eb(const uint8_t *buf, int buf_size,
     LOG_INFO_LLADDR((const linkaddr_t *)&frame->src_addr);
     LOG_INFO_(" to 0x%x/", frame->dest_pid);
     LOG_INFO_LLADDR((const linkaddr_t *)&frame->dest_addr);
+    // LOG_INFO_("\n");
+    clock_time_t t = clock_time();
+    LOG_INFO_(" time: %lu", t);
     LOG_INFO_("\n");
     return 0;
   }

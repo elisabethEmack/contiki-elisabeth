@@ -1,7 +1,5 @@
-# storage/cfs-coffee
-
-## Contiki File System (CFS) and Coffee Examples
-
+Contiki File System (CFS) and Coffee Examples
+=============================================
 
 Coffee is a very simple, relatively small and easy to use file system that you
 are most likely going to be very familiar with if you have done any C file
@@ -16,8 +14,8 @@ found at the [CFS](https://github.com/contiki-os/contiki/wiki/File-systems) and
 [Coffee](https://github.com/contiki-os/contiki/wiki/Coffee-filesystem-example)
 wiki pages.
 
-### Supported Hardware (tested or known to work)
-
+Supported Hardware (tested or known to work)
+--------------------------------------------
 * sky
 * z1
 * wismote
@@ -28,9 +26,6 @@ wiki pages.
 * TI cc26x0-cc13x0
     - sensortag
     - launchpad
-* gecko
-    - brd4162a
-    - brd4166a
 
 The examples are known to build for the 'avr-raven' platform. However,
 some of them currently fail at runtime due to file system overflow.

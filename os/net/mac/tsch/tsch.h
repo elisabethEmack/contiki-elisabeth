@@ -41,8 +41,8 @@ frequency hopping for enhanced reliability.
 *	Main API declarations for TSCH.
 */
 
-#ifndef TSCH_H_
-#define TSCH_H_
+#ifndef __TSCH_H__
+#define __TSCH_H__
 
 /********** Includes **********/
 
@@ -113,22 +113,22 @@ frequency hopping for enhanced reliability.
 
 /* Called by TSCH when joining a network */
 #ifdef TSCH_CALLBACK_JOINING_NETWORK
-void TSCH_CALLBACK_JOINING_NETWORK(void);
+void TSCH_CALLBACK_JOINING_NETWORK();
 #endif
 
 /* Called by TSCH when leaving a network */
 #ifdef TSCH_CALLBACK_LEAVING_NETWORK
-void TSCH_CALLBACK_LEAVING_NETWORK(void);
+void TSCH_CALLBACK_LEAVING_NETWORK();
 #endif
 
 /* Called by TSCH after sending a keep-alive */
 #ifdef TSCH_CALLBACK_KA_SENT
-void TSCH_CALLBACK_KA_SENT(int status, int transmissions);
+void TSCH_CALLBACK_KA_SENT();
 #endif
 
 /* Called by TSCH before sending a EB */
 #ifdef TSCH_RPL_CHECK_DODAG_JOINED
-int TSCH_RPL_CHECK_DODAG_JOINED(void);
+int TSCH_RPL_CHECK_DODAG_JOINED();
 #endif
 
 /* Called by TSCH form interrupt after receiving a frame, enabled upper-layer to decide
@@ -262,5 +262,5 @@ uint64_t tsch_get_network_uptime_ticks(void);
   */
 void tsch_disassociate(void);
 
-#endif /* TSCH_H_ */
+#endif /* __TSCH_H__ */
 /** @} */

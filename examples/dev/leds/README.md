@@ -1,6 +1,4 @@
-# dev/leds
-
-## LED HAL Example
+# LED HAL Example
 This example demonstrates and tests the functionality of the LED HAL. You can
 use it to:
 
@@ -10,7 +8,7 @@ developing a new port.
 
 This example assumes a device with at least 1 LED.
 
-### Supported devices
+# Supported devices
 This example is expected to work off-the-shelf on the following boards:
 
 * All CC13xx/CC26xx devices

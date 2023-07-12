@@ -1,7 +1,5 @@
-# mqtt-client
-
-## MQTT Client Example
-
+MQTT Client Example
+===================
 The MQTT client can be used to:
 
 * Publish sensor readings to an MQTT broker.
@@ -22,8 +20,8 @@ platform.
 To enable Watson mode, define `MQTT_CLIENT_CONF_WITH_IBM_WATSON` as 1 in the
 example's `project-conf.h`.
 
-### Publishing
-
+Publishing
+----------
 By default the example will attempt to publish readings to an MQTT broker
 running on the IPv6 address specified as `MQTT_CLIENT_CONF_BROKER_IP_ADDR` in
 `project-conf.h`. This functionality was tested successfully with
@@ -37,8 +35,8 @@ client-id `d:<org-id>:mqtt-client:<device-id>`, where `<device-id>` gets
 constructed from the device's IEEE address. `<org-id>` can be controlled
 through the `MQTT_CLIENT_CONF_ORG_ID` define.
 
-### Subscribing
-
+Subscribing
+-----------
 You can also subscribe to topics and receive commands, but this will only
 work if you use "Org ID" != 'quickstart'. To achieve this, you will need to
 change `MQTT_CLIENT_CONF_ORG_ID` in `project-conf.h`. In this scenario, the
@@ -61,8 +59,8 @@ format, they are in fact not. This was done in order to avoid linking a json
 parser into the firmware. This comment only applies to parsing incoming
 messages, outgoing publish messages use proper json payload.
 
-### IBM Quickstart Service
-
+IBM Quickstart Service
+----------------------
 It is also possible to publish to IBM's quickstart service. To do so, you need
 to enable this mode by setting `MQTT_CLIENT_CONF_WITH_IBM_WATSON` to 1 in
 `project-conf.h`.
@@ -70,7 +68,7 @@ to enable this mode by setting `MQTT_CLIENT_CONF_WITH_IBM_WATSON` to 1 in
 The device will then try to connect to IBM's quickstart over NAT64, so you will
 need a NAT64 gateway in your network to make this work. A guide on how to
 setup NAT64 is out of scope here, but you can find one in the
-[documentation](https://docs.contiki-ng.org/en/develop/doc/getting-started/NAT64-for-Contiki-NG.html).
+[Contiki-NG wiki](https://github.com/contiki-ng/contiki-ng/wiki/NAT64-for-Contiki%E2%80%90NG).
 
 If you want to use IBM's cloud service with a registered device, you will need
 to set `MQTT_CLIENT_CONF_ORG_ID` and then also to provide the 'Auth Token'

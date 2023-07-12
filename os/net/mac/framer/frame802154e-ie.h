@@ -56,6 +56,7 @@ struct tsch_slotframe_and_links_link {
   uint16_t timeslot;
   uint16_t channel_offset;
   uint8_t link_options;
+  //uint8_t nodeid; //editted
 };
 struct tsch_slotframe_and_links {
   uint8_t num_slotframes; /* We support only 0 or 1 slotframe in this IE */
@@ -99,14 +100,14 @@ int frame80215e_create_ie_header_ack_nack_time_correction(uint8_t *buf, int len,
 /* Header IE. List termination 1 (Signals the end of the Header IEs when
  * followed by payload IEs) */
 int frame80215e_create_ie_header_list_termination_1(uint8_t *buf, int len,
-    const struct ieee802154_ies *ies);
+    struct ieee802154_ies *ies);
 /* Header IE. List termination 2 (Signals the end of the Header IEs when
  * followed by an unformatted payload) */
 int frame80215e_create_ie_header_list_termination_2(uint8_t *buf, int len,
-    const struct ieee802154_ies *ies);
+    struct ieee802154_ies *ies);
 /* Payload IE. List termination */
 int frame80215e_create_ie_payload_list_termination(uint8_t *buf, int len,
-    const struct ieee802154_ies *ies);
+    struct ieee802154_ies *ies);
 #if TSCH_WITH_SIXTOP
 /* Payload IE. 6top. Used to nest sub-IEs */
 int frame80215e_create_ie_ietf(uint8_t *buf, int len,

@@ -47,7 +47,6 @@
 
 #include "contiki.h"
 #include <stdio.h>
-#include <inttypes.h>
 #include "net/mac/tsch/tsch.h"
 #include "lib/ringbufindex.h"
 #include "sys/log.h"
@@ -77,14 +76,27 @@ tsch_log_process_pending(void)
     printf("[WARN: TSCH-LOG  ] logs dropped %u\n", log_dropped);
     last_log_dropped = log_dropped;
   }
+  
+  //int value = (asn->ms1b << 8) | asn->ls4b ;
+   //TSCH_LOG_ADD(
+ 	//tsch_log_message, snprintf(log->message, sizeof(log->message), "asn %u", value);
+  //);
+  
+  
+  
   while((log_index = ringbufindex_peek_get(&log_ringbuf)) != -1) {
     struct tsch_log_t *log = &log_array[log_index];
+    
+    int reg_asn = (log->asn.ms1b << 8) | log->asn.ls4b;
+    
     if(log->link == NULL) {
-      printf("[INFO: TSCH-LOG  ] {asn %02x.%08"PRIx32" link-NULL} ", log->asn.ms1b, log->asn.ls4b);
+      printf("[INFO: TSCH-LOG  ] {asn %02x.%08lx link-NULL} ", log->asn.ms1b, log->asn.ls4b);
     } else {
       struct tsch_slotframe *sf = tsch_schedule_get_slotframe_by_handle(log->link->slotframe_handle);
-      printf("[INFO: TSCH-LOG  ] {asn %02x.%08"PRIx32" link %2u %3u %3u %2u %2u ch %2u} ",
-             log->asn.ms1b, log->asn.ls4b,
+      //printf("[INFO: TSCH-LOG  ] {asn %02x.%08lx link %2u %3u %3u %2u %2u ch %2u} ",
+      printf("[INFO: TSCH-LOG  ] {asn %u link %2u %3u %3u %2u %2u ch %2u} ",
+             //log->asn.ms1b, log->asn.ls4b,
+             reg_asn,
              log->link->slotframe_handle, sf ? sf->size.val : 0,
              log->burst_count, log->link->timeslot + log->burst_count, log->channel_offset,
              log->channel);

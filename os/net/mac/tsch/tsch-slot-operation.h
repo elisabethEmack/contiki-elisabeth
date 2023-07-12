@@ -37,8 +37,8 @@
  *	TSCH runtime operation within timeslots
 */
 
-#ifndef TSCH_SLOT_OPERATION_H_
-#define TSCH_SLOT_OPERATION_H_
+#ifndef __TSCH_SLOT_OPERATION_H__
+#define __TSCH_SLOT_OPERATION_H__
 
 /********** Includes **********/
 
@@ -94,5 +94,5 @@ void tsch_slot_operation_sync(rtimer_clock_t next_slot_start,
  */
 void tsch_slot_operation_start(void);
 
-#endif /* TSCH_SLOT_OPERATION_H_ */
+#endif /* __TSCH_SLOT_OPERATION_H__ */
 /** @} */

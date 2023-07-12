@@ -47,6 +47,9 @@
 
 #include "dev/radio.h"
 #include "contiki.h"
+/*-------------My addition:--------------*/
+#include "tsch-const.h"
+/*--------------------------------------*/
 #include "net/netstack.h"
 #include "net/packetbuf.h"
 #include "net/queuebuf.h"
@@ -178,6 +181,13 @@ static struct pt slot_operation_pt;
 static PT_THREAD(tsch_tx_slot(struct pt *pt, struct rtimer *t));
 static PT_THREAD(tsch_rx_slot(struct pt *pt, struct rtimer *t));
 
+
+/*=== My addition: Initialize hopping pointer sequence  ===*/
+uint8_t tsch_hopping_pointer_sequence[TSCH_HOPPING_SEQUENCE_MAX_LEN];
+uint8_t tsch_hopping_index_sequence[TSCH_HOPPING_SEQUENCE_MAX_LEN];
+uint8_t tsch_alternation_sequence[TSCH_ALTERNATION_SEQUENCE_LEN];
+uint8_t tsch_alternation_sequence_length = TSCH_ALTERNATION_SEQUENCE_LEN;
+
 /*---------------------------------------------------------------------------*/
 /* TSCH locking system. TSCH is locked during slot operations */
 
@@ -256,7 +266,12 @@ tsch_get_channel_offset(struct tsch_link *link, struct tsch_packet *p)
 /**
  * Returns a 802.15.4 channel from an ASN and channel offset. Basically adds
  * The offset to the ASN and performs a hopping sequence lookup.
- *
+ *   
+ int value = (asn->ms1b << 8) | asn->ls4b ;
+  
+ TSCH_LOG_ADD(tsch_log_message, snprintf(log->message, sizeof(log->message), "asn %u", value);
+  );
+ 
  * \param asn A given ASN
  * \param channel_offset Given channel offset
  * \return The resulting channel
@@ -265,10 +280,49 @@ static uint8_t
 tsch_calculate_channel(struct tsch_asn_t *asn, uint16_t channel_offset)
 {
   uint16_t index_of_0, index_of_offset;
+
+  
   index_of_0 = TSCH_ASN_MOD(*asn, tsch_hopping_sequence_length);
   index_of_offset = (index_of_0 + channel_offset) % tsch_hopping_sequence_length.val;
   return tsch_hopping_sequence[index_of_offset];
 }
+
+/*--My addition---*/
+// static uint8_t
+// tsch_calculate_channel(struct tsch_asn_t *asn, uint16_t channel_offset)
+// {
+//   uint16_t index_of_0, index_of_offset, index_of_pointer, pointer, idx_sequence, idx_alt, alt_value;
+  
+//   memcpy(tsch_hopping_pointer_sequence, TSCH_DEFAULT_POINTER_SEQUENCE, sizeof(TSCH_DEFAULT_POINTER_SEQUENCE));
+  
+//   memcpy(tsch_alternation_sequence, TSCH_DEFAULT_ALTERNATION_SEQUENCE, sizeof(TSCH_DEFAULT_ALTERNATION_SEQUENCE));
+  
+//   //compute the index of pointer
+//   index_of_pointer = TSCH_ASN_POINTER_MOD(*asn, tsch_hopping_sequence_length); 
+//   pointer = tsch_hopping_pointer_sequence[index_of_pointer]; //shift the start of hopping sequence, array is not yet defined
+  
+//   //compute alternation index 
+//   idx_alt = TSCH_ASN_SEQUENCE_MOD(*asn, tsch_hopping_sequence_length, tsch_alternation_sequence_length);
+//   alt_value = tsch_alternation_sequence[idx_alt];
+  
+//   //Select for alternation between 2 random sequence of chanel index
+//   if(alt_value == 0) {
+//     // use sequence index 1
+//     memcpy(tsch_hopping_index_sequence, TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_1, sizeof(TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_1));
+//   } else {
+//     memcpy(tsch_hopping_index_sequence, TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_2, sizeof(TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_2));
+//   }
+
+  
+//   //struct tsch_asn_divisor_t tsch_hopping_sequence_length found in tsch.h, defined at tsch-asn.h
+//   index_of_0 = TSCH_ASN_MOD(*asn, tsch_hopping_sequence_length); 
+//   idx_sequence = tsch_hopping_index_sequence[pointer];
+//   index_of_offset = (idx_sequence + index_of_0 + channel_offset) % tsch_hopping_sequence_length.val;
+  
+//   //tsch_hopping_sequence is the original mapping; to do: create struct of hopping_sequence
+//   return tsch_hopping_sequence[index_of_offset];
+// }
+
 
 /*---------------------------------------------------------------------------*/
 /* Timing utility functions */
@@ -335,33 +389,6 @@ tsch_schedule_slot_operation(struct rtimer *tm, rtimer_clock_t ref_time, rtimer_
     RTIMER_BUSYWAIT_UNTIL_ABS(0, ref_time, offset); \
   } while(0);
 /*---------------------------------------------------------------------------*/
-/*
- * Check whether the current channel is in the join hopping sequence.
- * If a custom join hopping sequence is defined, EB packets are only
- * sent using that sequence.
- */
-static uint8_t
-is_current_channel_in_join_sequence(struct tsch_link *link)
-{
-#ifdef TSCH_CONF_JOIN_HOPPING_SEQUENCE
-  /* custom join sequence is defined, some channels might not part of it */
-  uint8_t current_channel = tsch_calculate_channel(&tsch_current_asn,
-                                                   link->channel_offset);
-  int i;
-  for(i = 0; i < sizeof(TSCH_JOIN_HOPPING_SEQUENCE); ++i) {
-    if(TSCH_JOIN_HOPPING_SEQUENCE[i] == current_channel) {
-      /* the channel is in the join sequence */
-      return 1;
-    }
-  }
-  /* the channel is not in the join sequence */
-  return 0;
-#else
-  /* all channels are in the join sequence */
-  return 1;
-#endif
-}
-/*---------------------------------------------------------------------------*/
 /* Get EB, broadcast or unicast packet to be sent, and target neighbor. */
 static struct tsch_packet *
 get_packet_and_neighbor_for_link(struct tsch_link *link, struct tsch_neighbor **target_neighbor)
@@ -373,12 +400,9 @@ get_packet_and_neighbor_for_link(struct tsch_link *link, struct tsch_neighbor **
   if(link->link_options & LINK_OPTION_TX) {
     /* is it for advertisement of EB? */
     if(link->link_type == LINK_TYPE_ADVERTISING || link->link_type == LINK_TYPE_ADVERTISING_ONLY) {
-      /* is the current channel in the join hopping sequence? */
-      if(is_current_channel_in_join_sequence(link)) {
-        /* fetch EB packets */
-        n = n_eb;
-        p = tsch_queue_get_packet_for_nbr(n, link);
-      }
+      /* fetch EB packets */
+      n = n_eb;
+      p = tsch_queue_get_packet_for_nbr(n, link);
     }
     if(link->link_type != LINK_TYPE_ADVERTISING_ONLY) {
       /* NORMAL link or no EB to send, pick a data packet */

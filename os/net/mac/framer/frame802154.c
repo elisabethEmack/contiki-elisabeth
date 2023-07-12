@@ -221,16 +221,16 @@ frame802154_check_dest_panid(frame802154_t *frame)
 }
 /*---------------------------------------------------------------------------*/
 /* Check is the address is a broadcast address, whatever its size */
-bool
-frame802154_is_broadcast_addr(uint8_t mode, const uint8_t *addr)
+int
+frame802154_is_broadcast_addr(uint8_t mode, uint8_t *addr)
 {
   int i = mode == FRAME802154_SHORTADDRMODE ? 2 : 8;
   while(i-- > 0) {
     if(addr[i] != 0xff) {
-      return false;
+      return 0;
     }
   }
-  return true;
+  return 1;
 }
 /*---------------------------------------------------------------------------*/
 /* Check and extract source and destination linkaddr from frame */
@@ -466,7 +466,7 @@ frame802154_create(frame802154_t *p, uint8_t *buf)
 }
 
 void
-frame802154_parse_fcf(const uint8_t *data, frame802154_fcf_t *pfcf)
+frame802154_parse_fcf(uint8_t *data, frame802154_fcf_t *pfcf)
 {
   frame802154_fcf_t fcf;
 

@@ -160,7 +160,7 @@ frame80215e_create_ie_header_ack_nack_time_correction(uint8_t *buf, int len,
  * followed by payload IEs) */
 int
 frame80215e_create_ie_header_list_termination_1(uint8_t *buf, int len,
-    const struct ieee802154_ies *ies)
+    struct ieee802154_ies *ies)
 {
   int ie_len = 0;
   if(len >= 2 + ie_len && ies != NULL) {
@@ -175,7 +175,7 @@ frame80215e_create_ie_header_list_termination_1(uint8_t *buf, int len,
  * followed by an unformatted payload) */
 int
 frame80215e_create_ie_header_list_termination_2(uint8_t *buf, int len,
-    const struct ieee802154_ies *ies)
+    struct ieee802154_ies *ies)
 {
   int ie_len = 0;
   if(len >= 2 + ie_len && ies != NULL) {
@@ -189,7 +189,7 @@ frame80215e_create_ie_header_list_termination_2(uint8_t *buf, int len,
 /* Payload IE. List termination */
 int
 frame80215e_create_ie_payload_list_termination(uint8_t *buf, int len,
-    const struct ieee802154_ies *ies)
+    struct ieee802154_ies *ies)
 {
   int ie_len = 0;
   if(len >= 2 + ie_len && ies != NULL) {
@@ -278,6 +278,7 @@ frame80215e_create_ie_tsch_slotframe_and_link(uint8_t *buf, int len,
         WRITE16(buf + 2 + 5 + i * 5, ies->ie_tsch_slotframe_and_link.links[i].timeslot);
         WRITE16(buf + 2 + 5 + i * 5 + 2, ies->ie_tsch_slotframe_and_link.links[i].channel_offset);
         buf[2 + 5 + i * 5 + 4] = ies->ie_tsch_slotframe_and_link.links[i].link_options;
+        //buf[2 + 5 + i * 6 + 5] = ies->ie_tsch_slotframe_and_link.links[i].nodeid; //editted
       }
     }
     create_mlme_short_ie_descriptor(buf, MLME_SHORT_IE_TSCH_SLOFTRAME_AND_LINK, ie_len);
@@ -401,6 +402,7 @@ frame802154e_parse_mlme_short_ie(const uint8_t *buf, int len,
               READ16(buf + 5 + i * 5, ies->ie_tsch_slotframe_and_link.links[i].timeslot);
               READ16(buf + 5 + i * 5 + 2, ies->ie_tsch_slotframe_and_link.links[i].channel_offset);
               ies->ie_tsch_slotframe_and_link.links[i].link_options = buf[5 + i * 5 + 4];
+              //ies->ie_tsch_slotframe_and_link.links[i].nodeid = buf[5 + i * 6 + 5];//editted
             }
           }
           return len;

@@ -39,8 +39,8 @@
  *         Yasuyuki Tanaka <yasuyuki.tanaka@inf.ethz.ch>
  */
 
-#ifndef SIXTOP_CONF_H_
-#define SIXTOP_CONF_H_
+#ifndef __SIXTOP_CONF_H__
+#define __SIXTOP_CONF_H__
 
 /**
  * \brief The maximum number of Scheduling Functions in the system.
@@ -61,5 +61,5 @@
 #define SIXTOP_MAX_TRANSACTIONS 1
 #endif
 
-#endif /* !SIXTOP_CONF_H_ */
+#endif /* !__SIXTOP_CONF_H__ */
 /** @} */

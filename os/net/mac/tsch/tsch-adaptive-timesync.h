@@ -37,8 +37,8 @@
  *	TSCH adaptive time synchronization
 */
 
-#ifndef TSCH_ADAPTIVE_TIMESYNC_H_
-#define TSCH_ADAPTIVE_TIMESYNC_H_
+#ifndef __TSCH_ADAPTIVE_TIMESYNC_H__
+#define __TSCH_ADAPTIVE_TIMESYNC_H__
 
 /********** Includes **********/
 
@@ -73,5 +73,5 @@ long int tsch_adaptive_timesync_get_drift_ppm(void);
 void tsch_adaptive_timesync_reset(void);
 
 
-#endif /* TSCH_ADAPTIVE_TIMESYNC_H_ */
+#endif /* __TSCH_ADAPTIVE_TIMESYNC_H__ */
 /** @} */

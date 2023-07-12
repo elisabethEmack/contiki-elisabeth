@@ -37,8 +37,8 @@
  *	TSCH queues
 */
 
-#ifndef TSCH_QUEUE_H_
-#define TSCH_QUEUE_H_
+#ifndef __TSCH_QUEUE_H__
+#define __TSCH_QUEUE_H__
 
 /********** Includes **********/
 
@@ -189,5 +189,5 @@ void tsch_queue_update_all_backoff_windows(const linkaddr_t *dest_addr);
  */
 void tsch_queue_init(void);
 
-#endif /* TSCH_QUEUE_H_ */
+#endif /* __TSCH_QUEUE_H__ */
 /** @} */

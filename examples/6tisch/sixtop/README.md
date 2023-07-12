@@ -1,5 +1,3 @@
-# 6tisch/sixtop
-
 6top Example Description
 ------------------------
 

@@ -39,8 +39,8 @@
  *         Simon Duquennoy <simonduq@sics.se>
  */
 
-#ifndef TSCH_CONF_H_
-#define TSCH_CONF_H_
+#ifndef __TSCH_CONF_H__
+#define __TSCH_CONF_H__
 
 /********** Includes **********/
 
@@ -143,6 +143,7 @@
 #define TSCH_DEFAULT_HOPPING_SEQUENCE TSCH_CONF_DEFAULT_HOPPING_SEQUENCE
 #else
 #define TSCH_DEFAULT_HOPPING_SEQUENCE TSCH_HOPPING_SEQUENCE_4_4
+//#define TSCH_DEFAULT_HOPPING_SEQUENCE TSCH_HOPPING_SEQUENCE_16_16 //original 4_4, change to 16_16 => try
 #endif
 
 /* Hopping sequence used for joining (scan channels) */
@@ -159,6 +160,43 @@
 #else
 #define TSCH_HOPPING_SEQUENCE_MAX_LEN sizeof(TSCH_DEFAULT_HOPPING_SEQUENCE)
 #endif
+
+/*---------------------------------My additions--------------------------------------------------------------*/
+/* Default random hopping index sequence, used for determining the sequence*/
+#ifdef TSCH_CONF_DEFAULT_RANDOM_SEQUENCE_INDEX_1
+#define TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_1 TSCH_CONF_DEFAULT_RANDOM_SEQUENCE_INDEX_1
+#else
+//#define TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_1 TSCH_RANDOM_SEQUENCE_INDEX_16_1 //original 4_4, change to 16_16 => try
+#define TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_1 TSCH_RANDOM_SEQUENCE_INDEX_4_1 //original 4_4, change to 16_16 => try
+#endif
+
+#ifdef TSCH_CONF_DEFAULT_RANDOM_SEQUENCE_INDEX_2
+#define TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_2 TSCH_CONF_DEFAULT_RANDOM_SEQUENCE_INDEX_2
+#else
+//#define TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_2 TSCH_RANDOM_SEQUENCE_INDEX_16_2 //original 4_4, change to 16_16 => try
+#define TSCH_DEFAULT_RANDOM_SEQUENCE_INDEX_2 TSCH_RANDOM_SEQUENCE_INDEX_4_2 //original 4_4, change to 16_16 => try
+#endif
+
+#ifdef TSCH_CONF_DEFAULT_POINTER_SEQUENCE
+#define TSCH_DEFAULT_POINTER_SEQUENCE TSCH_CONF_DEFAULT_POINTER_SEQUENCE
+#else
+//#define TSCH_DEFAULT_POINTER_SEQUENCE TSCH_POINTER_SEQUENCE_16 //original 4_4, change to 16_16 => try
+#define TSCH_DEFAULT_POINTER_SEQUENCE TSCH_POINTER_SEQUENCE_4 //original 4_4, change to 16_16 => try
+#endif
+
+#ifdef TSCH_CONF_DEFAULT_ALTERNATION_SEQUENCE
+#define TSCH_DEFAULT_ALTERNATION_SEQUENCE TSCH_CONF_ALTERNATION_POINTER_SEQUENCE
+#else
+#define TSCH_DEFAULT_ALTERNATION_SEQUENCE TSCH_ALTERNATION_SEQUENCE
+#endif
+
+#ifdef TSCH_CONF_ALTERNATION_SEQUENCE_LEN
+#define TSCH_ALTERNATION_SEQUENCE_LEN TSCH_CONF_ALTERNATION_SEQUENCE_LEN
+#else
+#define TSCH_ALTERNATION_SEQUENCE_LEN sizeof(TSCH_DEFAULT_ALTERNATION_SEQUENCE)
+#endif
+/*=========================================================================================================*/
+
 
 /******** Configuration: association *******/
 
@@ -350,7 +388,8 @@
 #ifdef TSCH_SCHEDULE_CONF_MAX_LINKS
 #define TSCH_SCHEDULE_MAX_LINKS TSCH_SCHEDULE_CONF_MAX_LINKS
 #else
-#define TSCH_SCHEDULE_MAX_LINKS 32
+#define TSCH_SCHEDULE_MAX_LINKS 8
+// #define TSCH_SCHEDULE_MAX_LINKS 300
 #endif
 
 /* To include Sixtop Implementation */
@@ -391,11 +430,6 @@
 #define TSCH_MAC_MAX_BE TSCH_CONF_MAC_MAX_BE
 #else
 #define TSCH_MAC_MAX_BE 5
-#endif
-
-/* Avoid potential 16-bit integer overflow */
-#if TSCH_MAC_MAX_BE > 16
-#error TSCH_MAC_MAX_BE must be 16 or lower to avoid uint16_t overflows
 #endif
 
 /* Max number of re-transmissions */
@@ -455,5 +489,5 @@ by default, useful in case of duplicate seqno */
 #define TSCH_CONF_RX_WAIT 2200
 #endif /* TSCH_CONF_RX_WAIT */
 
-#endif /* TSCH_CONF_H_ */
+#endif /* __TSCH_CONF_H__ */
 /** @} */
